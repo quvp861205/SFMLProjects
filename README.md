@@ -9,6 +9,7 @@ version: GCC 4.9.2 TDM (SJLJ) - 32-bit
 uncompress: c:\SFMLtdm
 
 Open codeblocks and create a new project with console options.
+
 Settings -> Compiler
     Toolchain executables
         Additional Paths
